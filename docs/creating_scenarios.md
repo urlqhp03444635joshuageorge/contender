@@ -262,3 +262,5 @@ Once your scenario config is complete, pass it to contender:
 contender setup ./MyScenario.toml $RPC_URL --min-balance 0.25
 contender spam ./MyScenario.toml $RPC_URL --tps 10 -d 3 -p $PRV_KEY --min-balance 0.05
 ```
+
+<!-- Auto-update: 2025-10-14T07:12:43.252509 -->
