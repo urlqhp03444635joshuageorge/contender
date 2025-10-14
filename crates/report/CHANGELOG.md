@@ -13,3 +13,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - moved `report` from cli to its own crate
   - can now be used as a lib by other projects
+
+<!-- Auto-update: 2025-10-14T13:59:35.517952 -->
